@@ -31,23 +31,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <div class="banner">
            <div class="banner-info">
             <!-- <p class="t1"><span class="t2">IIM KOZHIKODE</span></p> -->
-             <h2>Learn Business <br> Leadership Skills With</h2>
-            <h1 style="font-family:Impact, sans-serif !important;">EdgeWood University</h1>
-            <br>
-
-            <div class="main_dba_section">
-            <span class="online_heading">Online</span>             
-            <h1><span class="dba_heading">DBA</span> MBA + DBA</h1>
-</div>
-
+             <h2>Build Leadership quality<br> with AI Gentarive courses from</h2>
+            <h1 style="font-family:Impact, sans-serif !important;">IIIT Bangalore<br> Online Courses</h1>
             <div class="banner_lists">
                 <ul>
-                    <li><i class="fa fa-check-square-o"></i> Globally recognised U.S. accreditation (HLC)</li>
-                    <li><i class="fa fa-check-square-o"></i> No GMAT/GRE + flexible pay-per-month model</li>
+                    <li><i class="fa fa-check-square-o"></i> NAAC A+ accredited</li>
+                    <li><i class="fa fa-check-square-o"></i> 6+ Certification course</li>
+                    <li><i class="fa fa-check-square-o"></i> Partnership of IIIT & IIIM Udaipur</li>
+                    <li><i class="fa fa-check-square-o"></i> 5-14 Months</li>
                 </ul>
             </div>
 
-            <button class="banner_custom_btn btn2 downloadBrochureBtn" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;">Download Broucher <i class="fa fa-download"></i> </button>
+            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;">Explore Programs </button>
            </div>
 		
            <div class="banner-form">
@@ -60,6 +55,217 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
 </div>
 <div>
+
+
+
+<section class="accreditation-section">
+  <div class="accreditation-container">
+
+    <!-- Left Column -->
+    <div class="accreditation-left">
+      <img src="assets/img/award-icon.webp" alt="Awards" class="trophy" />
+      <h2>Approvals &<br />Accreditation</h2>
+    </div>
+
+    <!-- Divider -->
+    <div class="divider"></div>
+
+    <!-- Right Column -->
+    <div class="accreditation-grid">
+      <div class="accreditation-item">
+        <img src="assets/img/naac-a-iiit.webp" alt="NAAC A+ Accredited">
+        <div class="accreditation-item-content">
+        <h4>NAAC A+</h4>
+        <p>The IIIT Bangalore certificate courses have an A+ grade, which proves that the institute offers quality learning outcomes for professionals.</p>
+</div>  
+    </div>
+
+      <div class="accreditation-item">
+        <img src="assets/img/ugc-iiit.webp" alt="UGC Entitled">
+        <div class="accreditation-item-content">
+        <h4>UGC</h4>
+        <p>This recognition confirms the institute's credibility and supports trust in online credentials.</p>
+</div>  
+    </div>
+
+      <div class="accreditation-item">
+        <img src="assets/img/aicte-iiit.webp" alt="AICTE Approved">
+        <div class="accreditation-item-content">
+        <h4>AICTE</h4>
+        <p>It makes sure that the course is industry-aligned with curriculum standards, technical rigour, and value.</p>
+</div>  
+    </div>
+
+      <div class="accreditation-item">
+        <img src="assets/img/aiu-iiit.webp" alt="AIU Member">
+        <div class="accreditation-item-content">
+        <h4>AACSB</h4>
+        <p>The approval association signals a global business-quality benchmark, strengthening leadership and learning value.</p>
+</div>  
+    </div>
+    </div>
+
+  </div>
+</section>
+
+
+
+
+<section class="courses-section">
+  <div class="courses-container">
+
+    <h2 class="section-title">Courses Offered</h2>
+    <p class="section-subtitle">By IIIT Bangalore</p>
+
+    <div class="courses-grid">
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/course-1.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Executive Programme in Generative AI for Leaders</h3>
+
+          <p class="course-desc">
+            IIIT Bangalore online courses help leaders learn GenAI strategy and adoption using the A.D.A.P.T. Framework, with real business use cases, a capstone, and executive-level outcomes.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure">Download Brochure</button>
+            <button class="btn apply">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/course-2.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Executive Post Graduate Certificate Programme in Data Science & AI</h3>
+
+          <p class="course-desc">
+            IIIT Bangalore online courses build skills in IIIT Bangalore data science and IIIT Bangalore artificial intelligence through statistics, ML, deep learning, projects, and mentorship.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure">Download Brochure</button>
+            <button class="btn apply">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/course-3.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Professional Certificate Programme in Data Science with Generative AI</h3>
+
+          <p class="course-desc">
+            IIIT Bangalore online courses deliver an IIIT Bangalore data science course in analytics, ML pipelines, and GenAI, with labs, real datasets, hands-on projects, and portfolio support.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure">Download Brochure</button>
+            <button class="btn apply">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/course-4.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Executive Post Graduate Programme in Applied AI and Agentic AI:</h3>
+
+          <p class="course-desc">
+            IIIT Bangalore certification courses cover applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through assignments, labs, and capstone projects.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure">Download Brochure</button>
+            <button class="btn apply">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/course-5.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Executive Diploma in Machine Learning & Artificial Intelligence</h3>
+
+          <p class="course-desc">
+            IIIT Bangalore's online courses offer advanced ML, MLOps, deep learning, and GenAI modules, making them ideal certification courses for professionals seeking strong career growth.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure">Download Brochure</button>
+            <button class="btn apply">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/course-6.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Chief Technology Officer & AI Leadership Programme</h3>
+
+          <p class="course-desc">
+            Powered by IIIM Udaipur, the online course offer detail skills on CTO AI leadership, covering tech strategy, governance, with dual certification. The IIIM Udaipur artificial intelligence offers a skill to prepare student future leadership.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure">Download Brochure</button>
+            <button class="btn apply">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<section class="about-section">
+  <div class="about-container">
+
+    <!-- Left Image -->
+    <div class="about-image">
+      <img src="iiitb.jpg" alt="IIIT Bangalore Campus">
+    </div>
+
+    <!-- Right Content -->
+    <div class="about-content">
+      <h2>About IIIT Bangalore <br>Online Courses</h2>
+      <span class="underline"></span>
+
+      <p>
+        IIIT Bangalore is a premier technology institute established in 1998, known for industry-focused education and strong academic depth. Its IIIT Bangalore online courses are designed for working professionals, combining academic rigor with real-world application. The institute offers carefully structured IIIT Bangalore certification courses in emerging technology domains, supported by expert faculty and industry mentors. Learners gain practical exposure through projects, case studies, and capstones that align skills with current business and technology needs.
+      </p>
+
+      <div class="about-actions">
+        <button class="btn red">📞 Request Call Back</button>
+        <button class="btn outline">Get 1:1 FREE Counseling</button>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+
+
+
+
 <div class="HighLights">
    
     <div class="container">
@@ -109,197 +315,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section id="main-courses" class="courses-section">
-    <div class="header">
-        <h2>COURSES OFFERED</h2>
-        <p>By Edgewood University Online</p>
-    </div>
 
-    <div class="course-container">
-        <div class="course-card">
-            <div class="card-image" style="background-image: url('../assets/img/online-dba-edgewood.webp');"></div>
-            <div class="card-content">
-                <h3>Edgewood University Online MBA:</h3>
-                <p class="description">Edgewood University Online MBA helps students build leadership skills, strategy, and business decision skills with the top approvals of HLC-accredited, ACBSP-approved learning, which offers flexible study and a career-focused curriculum.</p>
-                <div class="details">
-                    <p><strong>Duration:</strong> 2.5 Years</p>
-                    <p><strong>Eligibility:</strong> Bachelor's + Master's Degree with relevant experience</p>
-                </div>
-                <div class="card-actions">
-                    <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
-                    <a href="#" class="btn solid enquireNowBtn">Apply now</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="course-card">
-            <div class="card-image" style="background-image: url('../assets/img/dbamba-edgewood.webp');"></div>
-            <div class="card-content">
-                <h3>Edgewood University Online DBA + MBA:</h3>
-                <p class="description">The Dual degree is in demand nowadays. Many students plan to study an online DBA + MBA as their career pathway. The student can complete the degree in 2.5 years, which combines executive skills an MBA student needs with applied research and the respected “Dr” title.</p>
-                <div class="details">
-                    <p><strong>Duration:</strong> 24 Months</p>
-                    <p><strong>Eligibility:</strong> Bachelor's Degree</p>
-                </div>
-                <div class="card-actions">
-                    <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
-                    <a href="#" class="btn solid enquireNowBtn">Apply now</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
   
-<section id="about-section" class="about-section-hero">
-    <div class="overlay"></div> <div class="content-wrapper">
-        <div class="about-content">
-            <h2>About Edgewood University Online</h2>
-            <p>Edgewood University Online is a US-based university that was established in 1927, and the university is located in Madison. With 95+ years of excellence,e the university is one that offers career-focused learning. The university has the approval of ACBSP, HLC, which make sure the education provided by Edgewood University Online is globally competitive. The university offers a dual program in Edgewood University Online DBA+MBA, and the university also provides a management degree, which is called Edgewood University Online MBA. Through their flexible programs, students can get aan industry-relevantcurriculum, faculty support, and a learning model built for working professionals.</p>
-        </div>
-
-        <div class="image-container">
-            <img src="../assets/img/edegewood-about-image.webp" alt="Campus">
-            <a href="#" class="cta-button enquireNowBtn">Get FREE Career Counseling</a>
-        </div>
-    </div>
-</section>
 
 
 
-<section id="c-offered" class="accreditation-section">
-    <div class="accreditation-header">
-        <h2>ACCREDITATION OF</h2>
-        <p>Edgewood University Online</p>
-    </div>
-
-    <div class="accreditation-container">
-        <div class="accreditation-card">
-            <div class="logo-box">
-                <img src="../assets/img/hlc-approval-edgewood.webp" alt="HLC Logo">
-            </div>
-            <h3>Higher Learning Commission (HLC)</h3>
-            <p>Edgewood University Online program is approved by the HLC, which is a trusted U.S. regional approval authority. This approval support MBA+DBA program's credibility.</p>
-        </div>
-
-        <div class="accreditation-card">
-            <div class="logo-box">
-                <img src="../assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
-            </div>
-            <h3>World Education Services (WES)</h3>
-            <p>The Edgewood University Online DBA+MBA is approved by the WES, which help learniver validate their US qualification for education and career development across countries.</p>
-        </div>
-
-        <div class="accreditation-card">
-            <div class="logo-box">
-                <img src="../assets/img/acbsp-approval-edgewood.webp" alt="ACBSP Logo">
-            </div>
-            <h3>Accreditation Council for Business Schools & Programs (ACBSP)</h3>
-            <p>The ACBSP-approval make sure that the quality of the education is a strong academic standard and has a global value. The Edgewood University Online MBA has gotten this approval, which make sure that the course of have a proper approvals.</p>
-        </div>
-    </div>
-</section>
 
 
-
-<section class="specialisation-section">
-    <div class="header">
-        <h2>Specializations of Edgewood University Online DBA+MBA</h2>
-    </div>
-
-    <div class="spec-container">
-        <div class="spec-card">
-            <div class="card-image" style="background-image: url('../assets/img/leadership-edgewood.webp');"></div>
-            <div class="card-content">
-                <h3>DBA+MBA Leadership:</h3>
-                <p class="description">Edgewood University Online DBA Learning in DBA+MBA Leadership combines MBA leadership skills with doctoral-level applied research, preparing professionals for senior management, consulting, and enterprise growth roles.</p>
-                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
-            </div>
-        </div>
-
-        <div class="spec-card">
-            <div class="card-image" style="background-image: url('../assets/img/finanance-edgewood.webp');"></div>
-            <div class="card-content">
-                <h3>DBA+MBA Finance:</h3>
-                <p class="description">Edgewood University Online DBA Learning in DBA+MBA Finance blends MBA finance fundamentals with advanced doctoral research, supporting strategic investment, risk control, and high-level corporate finance decisions.</p>
-                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-
-<section id="learning-section" class="learning-outcomes">
-    <div class="outcomes-header">
-        <h2>LEARNING OUTCOMES OF</h2>
-        <div class="line-title">
-            <span>Edgewood University Online</span>
-        </div>
-    </div>
-
-    <div class="outcomes-grid">
-        <div class="outcome-item">
-            <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
-            </div>
-            <div class="outcome-text">
-                <h3>Optional On-Campus Immersion:</h3>
-                <p>Experience U.S. campus learning through optional immersion, workshops, faculty meets, and academic resources onsite support.</p>
-            </div>
-        </div>
-
-        <div class="outcome-item">
-            <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
-            </div>
-            <div class="outcome-text">
-                <h3>Online Networking Gala:</h3>
-                <p>Join online networking galas to meet peers, alumni, mentors, and industry leaders worldwide for growth.</p>
-            </div>
-        </div>
-
-        <div class="outcome-item">
-            <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
-            </div>
-            <div class="outcome-text">
-                <h3>Stakeholder Influence:</h3>
-                <p>Build stakeholder influence by negotiating confidently, managing expectations, presenting data, and leading change initiatives effectively.</p>
-            </div>
-        </div>
-
-        <div class="outcome-item">
-            <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
-            </div>
-            <div class="outcome-text">
-                <h3>Conduct Applied Doctoral Research:</h3>
-                <p>Conduct applied doctoral research using evidence-based methods, solving business problems with measurable outcomes for organisations.</p>
-            </div>
-        </div>
-
-        <div class="outcome-item">
-            <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
-            </div>
-            <div class="outcome-text">
-                <h3>Expert Faculty:</h3>
-                <p>Learn from expert faculty who guide projects, share industry insights, and support academic progress personally.</p>
-            </div>
-        </div>
-
-        <div class="outcome-item">
-            <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
-            </div>
-            <div class="outcome-text">
-                <h3>Nationally Recognized:</h3>
-                <p>Earn a nationally recognized U.S. qualification that enhances credibility, promotion prospects, and global mobility faster.</p>
-            </div>
-        </div>
-    </div>
-</section>
 
 
 

@@ -94,7 +94,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="nav-header">
                 <div class="nav-title">
                     <a href="#" id="logo-link">  
-                        <img src="assets/img/edewood-logo-header.webp" class="logo" alt="IIM-Logo">
+                        <img src="assets/img/iiit-b-header-logo.webp" class="logo" alt="IIM-Logo">
                     </a>
                 </div>
             </div>
