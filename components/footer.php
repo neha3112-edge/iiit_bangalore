@@ -10,17 +10,14 @@
                   <button class="enquireNowBtn" style="background-color:var(--primary-color); padding:10px 20px; color:#fff; border-style:none; border-radius:5px;"><i class="fa fa-phone"></i> Request Call Back</button>
             </div>
             <div class="footer-column">
-                <h2>Online DBA Specialization</h2>
+                <h2>Online Courses</h2>
 				<ul>
-                    <li>DBA - Emerging Technologies</li>
-                    <li>DBA - Finance</li>
-                    <li>DBA - Marketing</li>
-                    <li>DBA - Emerging Technologies</li>
-                    <li>DBA - Finance</li>
-                    <li>DBA - Marketing</li>
-                    <li>DBA - Emerging Technologies</li>
-                    <li>DBA - Finance</li>
-                    <li>DBA - Marketing</li>
+                    <li><a href="#main-courses">Executive Programme in Generative AI for Leaders</a></li>
+                    <li><a href="#main-courses">Executive Post Graduate Certificate Programme in Data Science & AI</a></li>
+                    <li><a href="#main-courses">Professional Certificate Programme in Data Science with Generative AI</a></li>
+                    <li><a href="#main-courses">Executive Post Graduate Programme in Applied AI and Agentic AI</a></li>
+                    <li><a href="#main-courses">Executive Diploma in Machine Learning & Artificial Intelligence</a></li>
+                    <li><a href="#main-courses">Chief Technology Officer & AI Leadership Programme</a></li>
 
                 </ul>
 				

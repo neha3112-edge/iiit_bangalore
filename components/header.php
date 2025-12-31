@@ -110,7 +110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="#main-courses">Courses</a></li>
             <li><a href="#approvals">Approvals</a></li>
             <li><a href="#about-section">About</a></li>
-                <li><a href="#why_choose">Why Edgewood ?</a></li>
+                <li><a href="#why_choose">Why IIT-B ?</a></li>
                 
                 <li><a href="#faqs">FAQ</a></li>
             </ul>

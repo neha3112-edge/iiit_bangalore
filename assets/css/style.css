@@ -1497,3 +1497,13 @@ p {
 	font-size: 14px !important;
 }
 }
+
+
+.footer-column ul li {
+	font-size: 12px;
+	padding-bottom: 9px;
+}
+
+.footer-column ul li a {
+	text-decoration: none;
+}
