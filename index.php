@@ -321,7 +321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <img src="assets/img/hands-on-learning-approach.webp">
       <h3>Hands-on learning approach</h3>
       <p>
-        Across multiple tracks, IIIT Bangalore online courses include projects, labs, and capstones, with IIIT Bangalore artificial intelligence, IIIT Bangalore data science, IIIT Bangalore certification courses, and IIIT Udaipur artificial intelligence all integrated into career-focused outcomes.
+        Across multiple tracks, IIIT Bangalore online courses include projects, labs, and capstones, and all online IIIT Bangalore courses are integrated and career-focused.
       </p>
     </div>
   </div>
@@ -343,8 +343,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
-                <h3>95+</h3>
-                <p>Years of legacy</p>
+                <h3>10+</h3>
+                <p>Years of Experience</p>
                 </div>
             </div>
 
@@ -352,8 +352,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
-                <h3>5 lakh+</h3>
-                <p>Student Enrolled</p>
+                <h3>30k+</h3>
+                <p>Learner</p>
                 </div>
             </div>
 
@@ -361,8 +361,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
-                <h3>PwC</h3>
-                <p>Certificate</p>
+                <h3>15+</h3>
+                <p>Assignment & Case Studies</p>
                 </div>
             </div>
 
@@ -370,8 +370,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
-                <h3>Dual</h3>
-                <p>Degree</p>
+                <h3>30+</h3>
+                <p>Tools</p>
                 </div>
             </div>
 
