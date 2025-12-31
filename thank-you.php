@@ -8,12 +8,9 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Event snippet for DBA LP conversion page -->
+<!-- Event snippet for IIITB_LP conversion page -->
 <script>
-  gtag('event', 'conversion', {
-      'send_to': 'AW-868968102/ZR6sCNG5tZ8bEKbNrZ4D',
-      'value': 1.0,
-      'currency': 'INR'
-  });
+  gtag('event', 'conversion', {'send_to': 'AW-17834744994/fk1mCNTXqtobEKK5orhC'});
 </script>
 	</head>
 	<body>
@@ -42,7 +39,7 @@
 					<center><h4><strong>Your Submission has been Received!</strong></h4></center>
 					<br>
 					<div class="button">
-						<a href="https://www.edgewood.edu/"><center>	<button type="button" style="padding: 10px; border: 1px solid black; background-color:#002B5C; color: #fff; font-weight:bold;">For More Information Kindly Visit Here</button></center></a>
+						<a href="https://www.iiitb.ac.in/"><center>	<button type="button" style="padding: 10px; border: 1px solid black; background-color:#002B5C; color: #fff; font-weight:bold;">For More Information Kindly Visit Here</button></center></a>
 					</div><!--end of card-->
 				</div><!--end of container-->
 				<br>
