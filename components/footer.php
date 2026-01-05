@@ -5,7 +5,7 @@
     <div class="container">
     <div class="footer-section">
             <div class="footer-column">
-                <img src="assets/img/iiit-b-footer-logo.webp" alt="logo-img" width="70%"/><br><br>
+                <a href="https://iiitb.distanceeducationschool.in/"><img src="assets/img/iiit-b-footer-logo.webp" alt="logo-img" width="70%"/><br><br></a>
                    <h2>Have Query? <br>Need Guidance</h2><br>
                   <button class="enquireNowBtn" style="background-color:var(--primary-color); padding:10px 20px; color:#fff; border-style:none; border-radius:5px;"><i class="fa fa-phone"></i> Request Call Back</button>
             </div>
