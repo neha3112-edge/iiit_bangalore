@@ -217,7 +217,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Chief Technology Officer & AI Leadership Programme</h3>
 
           <p class="course-desc">
-            Powered by IIIM Udaipur, the online course offer detail skills on CTO AI leadership, covering tech strategy, governance, with dual certification. The IIIM Udaipur artificial intelligence offers a skill to prepare student future leadership.
+            Powered by IIIM Udaipur, the online course offer detail skills on CTO AI leadership in DBA, covering tech strategy, governance. The IIIM Udaipur artificial intelligence offers a skill to prepare student future leadership.
           </p>
 
           <div class="course-actions">
