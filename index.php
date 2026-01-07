@@ -31,12 +31,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <div class="banner">
            <div class="banner-info">
             <!-- <p class="t1"><span class="t2">IIM KOZHIKODE</span></p> -->
-             <h2>Build Leadership quality<br> with AI Gentarive courses from</h2>
+             <h2>Build Leadership quality<br> with AI Generative courses from</h2>
             <h1 style="font-family:Impact, sans-serif !important;">IIIT Bangalore<br> Online Courses</h1>
             <div class="banner_lists">
                 <ul>
                     <li><i class="fa fa-check-square-o"></i> NAAC A+ accredited</li>
-                    <li><i class="fa fa-check-square-o"></i> 6+ Certification course</li>
+                    <li><i class="fa fa-check-square-o"></i> 6+ Certification courses</li>
                     <li><i class="fa fa-check-square-o"></i> Partnership of IIIT & IIIM Udaipur</li>
                     <li><i class="fa fa-check-square-o"></i> 5-14 Months</li>
                 </ul>
@@ -441,7 +441,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                 Is iiit bangalore artificial intelligence taught with practical training?
+                 Is IIIT bangalore artificial intelligence taught with practical training?
             </button>
             <div class="faq-answer">
                 <p>Yes. The AI-focused programmes include real-world use cases, hands-on assignments, and capstone projects to build job-ready expertise.</p>
@@ -451,7 +451,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                Do iiit bangalore data science programmes include projects?
+                Do IIIT bangalore data science programmes include projects?
             </button>
             <div class="faq-answer">
                 <p>Yes. Data Science programmes include applied projects, tool-based learning, and an industry-aligned curriculum for real-world analytics and ML problem-solving.</p>
@@ -461,7 +461,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                 Is iiit Udaipur artificial intelligence included in the CTO programme?
+                 Is IIIT Udaipur artificial intelligence included in the CTO programme?
             </button>
             <div class="faq-answer">
                 <p>Yes. The CTO & AI Leadership programme, offered in partnership with IIM Udaipur, covers AI leadership and decision-making modules.</p>
