@@ -37,7 +37,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul>
                     <li><i class="fa fa-check-square-o"></i> NAAC A+ accredited</li>
                     <li><i class="fa fa-check-square-o"></i> 6+ Certification courses</li>
-                    <li><i class="fa fa-check-square-o"></i> Partnership of IIIT & IIIM Udaipur</li>
+                    <li><i class="fa fa-check-square-o"></i> Partnership of IIIT & IIM Udaipur</li>
                     <li><i class="fa fa-check-square-o"></i> 5-14 Months</li>
                 </ul>
             </div>
@@ -217,7 +217,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Chief Technology Officer & AI Leadership Programme</h3>
 
           <p class="course-desc">
-            Powered by IIIM Udaipur, the online course offer detail skills on CTO AI leadership in DBA, covering tech strategy, governance. The IIIM Udaipur artificial intelligence offers a skill to prepare student future leadership.
+            Powered by IIM Udaipur, the online course offer detail skills on CTO AI leadership in DBA, covering tech strategy, governance. The IIM Udaipur artificial intelligence offers a skill to prepare student future leadership.
           </p>
 
           <div class="course-actions">
@@ -312,7 +312,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <img src="assets/img/leadership-edge-with-partner.webp">
       <h3>Leadership edge with partner institute</h3>
       <p>
-        The CTO leadership track includes IIIT Udaipur artificial intelligence coverage, combining tech strategy and AI decision-making for senior roles.
+        The CTO leadership track includes IIM Udaipur artificial intelligence coverage, combining tech strategy and AI decision-making for senior roles.
       </p>
     </div>
 
@@ -402,7 +402,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="certificate-content">
             <h2>Sample Post <br> Graduate Certificate</h2>
             <p class="description">
-                The students who have completed their IIIT Bangalore Online courses will receive two certificates from Microsoft. The student gets to learn multiple tools, which will allow them to get the upgrade they need in their professional journey. IIIT Bangalore also offers special IIIM Udaipur artificial intelligence courses that allow students to earn a dual degree.
+                The students who have completed their IIIT Bangalore Online courses will receive two certificates from Microsoft. The student gets to learn multiple tools, which will allow them to get the upgrade they need in their professional journey. IIIT Bangalore also offers special IIM Udaipur artificial intelligence courses that allow students to earn a dual degree.
             </p>
             <a class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
         </div>
@@ -461,7 +461,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                 Is IIIT Udaipur artificial intelligence included in the CTO programme?
+                 Is IIM Udaipur artificial intelligence included in the CTO programme?
             </button>
             <div class="faq-answer">
                 <p>Yes. The CTO & AI Leadership programme, offered in partnership with IIM Udaipur, covers AI leadership and decision-making modules.</p>
