@@ -99,6 +99,8 @@
                             <option value="Executive Post Graduate Programme in Applied AI and Agentic AI">Executive Post Graduate Programme in Applied AI and Agentic AI</option>
                             <option value="Executive Diploma in Machine Learning & Artificial Intelligence">Executive Diploma in Machine Learning & Artificial Intelligence</option>
                             <option value="Chief Technology Officer & AI Leadership Programme">Chief Technology Officer & AI Leadership Programme</option>
+                            <option value="Master of Science in Machine Learning & Artificial Intelligence">Master of Science in Machine Learning & Artificial Intelligence</option>
+                            <option value="Master of Science in Data Science Now integrated with Generative AI">Master of Science in Data Science Now integrated with Generative AI</option>
                         </select>
                     </div>
 

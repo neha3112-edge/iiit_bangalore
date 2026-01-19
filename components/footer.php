@@ -18,6 +18,8 @@
                     <li><a href="#main-courses">Executive Post Graduate Programme in Applied AI and Agentic AI</a></li>
                     <li><a href="#main-courses">Executive Diploma in Machine Learning & Artificial Intelligence</a></li>
                     <li><a href="#main-courses">Chief Technology Officer & AI Leadership Programme</a></li>
+                    <li><a href="#main-courses">Master of Science in Machine Learning & Artificial Intelligence</a></li>
+                    <li><a href="#main-courses">Master of Science in Data Science Now integrated with Generative AI</a></li>
 
                 </ul>
 				

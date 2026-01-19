@@ -126,6 +126,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="course-content">
           <h3>Executive Programme in Generative AI for Leaders</h3>
 
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 20 weeks</div>
+
           <p class="course-desc">
             IIIT Bangalore online courses help leaders learn GenAI strategy and adoption using the A.D.A.P.T. Framework, with real business use cases, a capstone, and executive-level outcomes.
           </p>
@@ -143,6 +145,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="course-content">
           <h3>Executive Post Graduate Certificate Programme in Data Science & AI</h3>
+
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 25 weeks</div>
 
           <p class="course-desc">
             IIIT Bangalore online courses build skills in IIIT Bangalore data science and IIIT Bangalore artificial intelligence through statistics, ML, deep learning, projects, and mentorship.
@@ -162,6 +166,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="course-content">
           <h3>Professional Certificate Programme in Data Science with Generative AI</h3>
 
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 24 weeks</div>
+
           <p class="course-desc">
             IIIT Bangalore online courses deliver an IIIT Bangalore data science course in analytics, ML pipelines, and GenAI, with labs, real datasets, hands-on projects, and portfolio support.
           </p>
@@ -179,6 +185,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="course-content">
           <h3>Executive Post Graduate Programme in Applied AI and Agentic AI</h3>
+
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 30 weeks</div>
 
           <p class="course-desc">
             IIIT Bangalore certification courses cover applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through assignments.
@@ -198,6 +206,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="course-content">
           <h3>Executive Diploma in Machine Learning & Artificial Intelligence</h3>
 
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 28 weeks</div>
+
           <p class="course-desc">
             IIIT Bangalore's online courses offer advanced ML, MLOps, deep learning, and GenAI modules, making them ideal certification courses for working professionals who are seeking strong career growth in their professional journey.
           </p>
@@ -216,12 +226,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="course-content">
           <h3>Chief Technology Officer & AI Leadership Programme</h3>
 
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 24 weeks</div>
+
           <p class="course-desc">
             Powered by IIM Udaipur, the online course offer detail skills on CTO AI leadership in DBA, covering tech strategy, governance. The IIM Udaipur artificial intelligence offers a skill to prepare student future leadership.
           </p>
 
           <div class="course-actions">
             <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/CTOAI_leadership_program.pdf">Download Brochure</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/new-image1.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Master of Science in Machine Learning & Artificial Intelligence</h3>
+
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 28 weeks</div>
+
+          <p class="course-desc">
+            IIIT Bangalore's MS in Machine Learning & AI offers double accreditation (IIIT Bangalore + LJMU, UK) covering advanced ML, deep learning, and Generative AI with 80+ tools. Ideal for working professionals seeking career growth, achieving up to 433% salary hikes.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/new-brochure2.pdf">Download Brochure</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Card -->
+      <div class="course-card">
+        <img src="assets/img/new-image2.webp" alt="Course Image" class="course-img">
+
+        <div class="course-content">
+          <h3>Master of Science in Data Science Now integrated with Generative AI</h3>
+
+          <div class="duration_list"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg><B> Duration:</b> 28 weeks</div>
+
+          <p class="course-desc">
+            LJMU MSc Data Science (upGrad & IIITB): 18-21 months online, GenAI with MLOps, 100+ tools, Data Analysis/Engineering tracks, bootcamp-to-dissertation, Hands-on Learning with 30+ Domain-Focused Assignments and Case Studies.
+          </p>
+
+          <div class="course-actions">
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/new-brochure1.pdf">Download Brochure</button>
             <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
