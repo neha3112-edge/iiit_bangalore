@@ -93,14 +93,14 @@
                         <label>Course <span class="required">*</span></label>
                         <select name="course" class="form-control" id="courseSelect" required>
                             <option value="">Select Your Course</option>
-                            <option value="Executive Programme in Generative AI for Leaders">Executive Programme in Generative AI for Leaders</option>
-                            <option value="Executive Post Graduate Certificate Programme in Data Science & AI">Executive Post Graduate Certificate Programme in Data Science & AI</option>
-                            <option value="Professional Certificate Programme in Data Science with Generative AI">Professional Certificate Programme in Data Science with Generative AI</option>
-                            <option value="Executive Post Graduate Programme in Applied AI and Agentic AI">Executive Post Graduate Programme in Applied AI and Agentic AI</option>
-                            <option value="Executive Diploma in Machine Learning & Artificial Intelligence">Executive Diploma in Machine Learning & Artificial Intelligence</option>
-                            <option value="Chief Technology Officer & AI Leadership Programme">Chief Technology Officer & AI Leadership Programme</option>
-                            <option value="Master of Science in Machine Learning & Artificial Intelligence">Master of Science in Machine Learning & Artificial Intelligence</option>
-                            <option value="Master of Science in Data Science Now integrated with Generative AI">Master of Science in Data Science Now integrated with Generative AI</option>
+                            <option value="DBA">Executive Programme in Generative AI for Leaders</option>
+                            <option value="DBA">Executive Post Graduate Certificate Programme in Data Science & AI</option>
+                            <option value="DBA">Professional Certificate Programme in Data Science with Generative AI</option>
+                            <option value="DBA">Executive Post Graduate Programme in Applied AI and Agentic AI</option>
+                            <option value="DBA">Executive Diploma in Machine Learning & Artificial Intelligence</option>
+                            <option value="DBA">Chief Technology Officer & AI Leadership Programme</option>
+                            <option value="DBA">Master of Science in Machine Learning & Artificial Intelligence</option>
+                            <option value="DBA">Master of Science in Data Science Now integrated with Generative AI</option>
                         </select>
                     </div>
 
